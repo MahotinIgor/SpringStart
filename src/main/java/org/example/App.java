@@ -12,6 +12,6 @@ public class App
     {
         var context = new AnnotationConfigApplicationContext();
         Parrot parrot = new Parrot();
-        System.out.println( "Hello World!" );
+
     }
 }
